@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning web development ...
+- 📫 How to reach me: markdaddy@gmail.com
+- ⚡ Fun fact: I love playing board games with family and friends. 
+
 <!--
 **marktucker08/marktucker08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
