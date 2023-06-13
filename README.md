@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning web development ...
+- 🌱 Full-stack web developer
 - 📫 How to reach me: markdaddy@gmail.com
 - ⚡ Fun fact: I love playing board games with family and friends. 
 
