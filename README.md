@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 Full-stack web developer
-- 📫 How to reach me: markdaddy@gmail.com
+- 📫 How to reach me: markdtucker08@gmail.com
 - ⚡ Fun fact: I love playing board games with family and friends. 
 
 <!--
